@@ -1,9 +1,6 @@
 <?php 
     
-    define("DATABASE", "ejemplo1");
-    define("HOSTNAME", "localhost");
-    define("USERNAME", "ele1990");
-    define("PASSWORD", "Root1234.");
+    require_once("login.php");
     /**
      * summary
      */
