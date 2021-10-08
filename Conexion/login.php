@@ -1,6 +1,6 @@
 <?php 
-	define('DATABASE','ejemplo1');
+	define('DATABASE','db_cuestionario');
 	define('HOST','localhost');
-	define('USERNAME','ele1990');
-	define('PASSWORD','Root1234.');
+	define('USERNAME','riquelmi');
+	define('PASSWORD','9enero2001.');
 ?>

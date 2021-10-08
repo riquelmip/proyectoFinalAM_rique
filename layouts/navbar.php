@@ -12,19 +12,19 @@
 <div class="sidebar-inner slimscrollleft">
     <div id="sidebar-menu">
         <ul>
-            <li class="menu-title">Main</li>
+            <li class="menu-title">Menú</li>
 
             <li>
-                <a href="../home/" class="waves-effect"><i class="mdi mdi-home"></i><span> Home </span></a>
+                <a href="../home/" class="waves-effect"><i class="mdi mdi-home"></i><span> Inicio </span></a>
             </li>
 
             
 
             <li class="has_sub">
-                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-cube-outline"></i><span> Productos <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
+                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-cube-outline"></i><span> Cuestionarios <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
                 <ul class="list-unstyled">
-                    <li><a href="email-inbox.php">Nuevo Producto</a></li>
-                    <li><a href="email-read.php">Administrar Producto</a></li>
+                    <li><a href="email-inbox.php">Nuevo Cuestionario</a></li>
+                    <li><a href="email-read.php">Administrar Cuestionarios</a></li>
                     
                 </ul>
             </li>
